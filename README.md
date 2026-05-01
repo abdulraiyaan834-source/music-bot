@@ -1,0 +1,2 @@
+# music-bot
+Discord 24/7 music bot
